@@ -1,0 +1,12 @@
+flask
+datasets 
+tqdm 
+pandas
+pkgconfig
+sentencepiece
+transformers
+wandb
+rouge_score
+torch>=1.6.0
+sentence_transformers
+joblib==1.2.0
